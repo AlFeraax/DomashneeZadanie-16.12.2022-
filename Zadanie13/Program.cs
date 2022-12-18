@@ -9,5 +9,5 @@ if (arrNumber.Length > 2)
 }
 else
 {
-    Console.WriteLine("Третьей цифры не сущетсвует.");
+    Console.WriteLine("Третьей цифры не существует.");
 }
